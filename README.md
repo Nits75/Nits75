@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m Nitesh**
 - 👀** **I’m interested in analaysis projects,****
-- 🌱 **I’m currently learning **
+- 🌱** **I’m currently learning ****
 - 💞️ **I’m looking to collaborate on ...**
 - 📫 **How to reach me ...niteshraskar75@gmail.com**********
 
