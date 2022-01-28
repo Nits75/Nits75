@@ -1,8 +1,4 @@
-- 👋 **Hi, I’m Nitesh**
-- 👀** **I’m interested in analaysis projects,****
-- 🌱** **I’m currently learning ****
-- 💞️ **I’m looking to collaborate on ...**
-- 📫 **How to reach me ...niteshraskar75@gmail.com**********
+*****“We make data easier to use”, “Our data never sleeps”, “When you have more data, you win”, “Data in action”;**
 
 <!---
 Nits75/Nits75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
